@@ -1,13 +1,13 @@
-# Website Reproduce 網站重現
+# Website Template 網站模板
 
 <br>
 
 ### 介紹
 
-- 名稱: [Website Reproduce 1](https://pardnchiu.github.io/website-reproduce-001/)
+- 名稱: [Website Template 7](https://pardnchiu.github.io/website-template-007/)
 - 開發: [Pardn Chiu](https://facebook.com/chiuchingwei) / [信箱](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
-- 源碼: https://github.com/pardnchiu/website-reproduce-001
+- 源碼: https://github.com/pardnchiu/website-template-007
 
 <br>
 
