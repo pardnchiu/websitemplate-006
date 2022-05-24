@@ -4,10 +4,10 @@
 
 ### 介紹
 
-- 名稱: [Website Template 7](https://pardnchiu.github.io/website-template-007/)
+- 名稱: [Website Template 7](https://pardnchiu.github.io/websitemplate-007/)
 - 開發: [Pardn Chiu](https://facebook.com/chiuchingwei) / [信箱](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
-- 源碼: https://github.com/pardnchiu/website-template-007
+- 源碼: https://github.com/pardnchiu/websitemplate-007
 
 <br>
 
