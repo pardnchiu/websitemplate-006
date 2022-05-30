@@ -1,13 +1,15 @@
 # Website Template 網站模板
 
+***尚未調整RWD，目前僅提供桌機版面參考***
+
 <br>
 
 ### 介紹
 
-- 名稱: [Website Template 7](https://pardnchiu.github.io/websitemplate-007/)
+- 名稱: [Website Template 6](https://pardnchiu.github.io/websitemplate-006/)
 - 開發: [Pardn Chiu](https://facebook.com/chiuchingwei) / [信箱](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
-- 源碼: https://github.com/pardnchiu/websitemplate-007
+- 源碼: https://github.com/pardnchiu/websitemplate-006
 
 <br>
 
