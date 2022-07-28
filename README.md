@@ -13,3 +13,7 @@
 | store.html |
 | --- |
 | ![store.html](./preview/store.png) |
+
+<br>
+
+Copyright (c) 2022 [Pardn Ltd](mailto:mail@pardn.ltd)
