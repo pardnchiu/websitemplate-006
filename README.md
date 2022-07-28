@@ -1,16 +1,6 @@
-# Website Template 網站模板
-
-### 介紹
-
-- 預覽: [Website Template 6](https://pardnchiu.github.io/websitemplate-006/)
-- 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
-- 授權: [MIT License](./LICENSE)
-
-### 引用
-
-- [Font Awesome 5.1](https://fontawesome.com)
-
-### 預覽
+- Preview: [Website Template 6](https://pardnchiu.github.io/website-template-6/)
+- Developer: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
+- Icon: [Font Awesome 5.1](https://fontawesome.com)
 
 | news.html |
 | --- |
